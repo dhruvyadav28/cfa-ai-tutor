@@ -16,7 +16,7 @@ torch==2.12.1
 torchvision==0.27.1
 
 openai==1.109.1
-tavily-python==0.5.7
+tavily-python==0.7.11
 
 beautifulsoup4==4.13.3
 requests==2.32.5
