@@ -8,12 +8,11 @@ langchain-text-splitters==0.3.11
 langgraph==0.2.76
 
 chromadb==0.5.23
-
 sentence-transformers==3.2.1
 transformers==4.46.3
 
-torch==2.12.1
-torchvision==0.27.1
+torch==2.4.0
+torchvision==0.19.0
 
 openai==1.109.1
 tavily-python==0.7.26
