@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+openai
+tavily-python
+requests
+beautifulsoup4
+pypdf2
+pdfplumber
