@@ -13,7 +13,7 @@ sentence-transformers==3.2.1
 transformers==4.46.3
 
 torch==2.12.1
-torchvision==0.23.0
+torchvision==0.27.1
 
 openai==1.109.1
 tavily-python==0.5.7
